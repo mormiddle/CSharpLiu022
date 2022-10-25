@@ -1,0 +1,8 @@
+E:\code\C#\CSharp刘铁锰\022 事件详解（下）\EventExample3\EventExample3\bin\Debug\EventExample3.exe.config
+E:\code\C#\CSharp刘铁锰\022 事件详解（下）\EventExample3\EventExample3\bin\Debug\EventExample3.exe
+E:\code\C#\CSharp刘铁锰\022 事件详解（下）\EventExample3\EventExample3\bin\Debug\EventExample3.pdb
+E:\code\C#\CSharp刘铁锰\022 事件详解（下）\EventExample3\EventExample3\obj\Debug\EventExample3.csproj.AssemblyReference.cache
+E:\code\C#\CSharp刘铁锰\022 事件详解（下）\EventExample3\EventExample3\obj\Debug\EventExample3.csproj.SuggestedBindingRedirects.cache
+E:\code\C#\CSharp刘铁锰\022 事件详解（下）\EventExample3\EventExample3\obj\Debug\EventExample3.csproj.CoreCompileInputs.cache
+E:\code\C#\CSharp刘铁锰\022 事件详解（下）\EventExample3\EventExample3\obj\Debug\EventExample3.exe
+E:\code\C#\CSharp刘铁锰\022 事件详解（下）\EventExample3\EventExample3\obj\Debug\EventExample3.pdb
